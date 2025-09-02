@@ -1,34 +1,24 @@
 # 👋 Hey, I’m Ayush  
-💻 Cybersecurity learner | 🔐 Red Team enthusiast in the making | ⚡ Building foundations before college  
+💻 Aspiring cybersecurity learner | 🔐 Interested in Red Teaming | ⚡ Exploring systems, networks & security one step at a time  
 
 ---
 
-## 🚀 What I’ve Learned So Far
-- **Bash Scripting**:  
-  - File operations, logical/file operators  
-  - Arguments ($0, $1…), arrays, case statements  
-  - `grep`, `find`, `awk`, `curl` basics  
-- **Linux & Systems**:  
-  - Installed & dual-booted Kali Linux with Windows  
-  - Comfortable with terminal workflows  
-- **Networking**:  
-  - IP, MAC, firewalls, packet basics  
-- **Cybersecurity Practice**:  
-  - Recon & enumeration mindset  
-  - Starting with CTF challenges  
+## 🔎 Current Focus
+- Writing small Bash scripts to automate tasks  
+- Exploring Linux internals & system workflows  
+- Learning networking fundamentals  
 
 ---
 
-## 📜 Certifications
+## 🏆 Certifications
 - ✅ [Google Cybersecurity Foundations](./Achievements/Foundations_of_Cybersecurity.pdf)  
-- 📈 Currently learning: **Google Professional Cybersecurity Certificate** (next 8 modules)  
+- 📈 Working on: Google Professional Cybersecurity Certificate  
 
 ---
 
 ## 📂 Projects
-- 🔧 [Bash Automation Scripts](./Projects/Bash/)  
-- 📖 [Cybersecurity Tools Notes](./Projects/Cybersecurity_Tools/)  
-- 🕹️ Mini CTF Writeups *(coming soon)*  
+- [Bash Scripts](./Projects/Bash/) — simple automation & utilities  
+- [Cybersecurity Notes](./Projects/Cybersecurity_Tools/) — personal documentation  
 
 ---
 
