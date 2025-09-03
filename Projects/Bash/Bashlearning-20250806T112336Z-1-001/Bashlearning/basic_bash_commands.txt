@@ -1,0 +1,95 @@
+# Kali Linux & Bash Learning Notes
+
+## ✅ Terminal Basics
+- `pwd` — Show current directory
+- `ls` — List files in directory
+- `cd foldername/` — Change directory
+- `cd ..` — Go back one directory
+- `clear` — Clear the terminal screen
+
+## 📁 File & Directory Management
+
+### Create Directory
+- `mkdir foldername`
+
+### Create File
+- `touch filename.txt`
+- `nano filename.txt` — Create/edit file (Ctrl+O to save, Ctrl+X to exit)
+
+### View File Content
+- `cat filename.txt`
+
+### Rename File or Folder
+- `mv oldname.txt newname.txt`
+- `mv oldfolder newfolder`
+
+### Move File/Folder
+- `mv file.txt folder/`
+
+### Delete File or Folder
+- `rm file.txt`
+- `rm -r foldername`
+
+## Executable Scripts 
+- `chmod +x script.sh` — Make a script executable
+
+## 📜 Bash Scripting Basics
+- `#!/bin/bash` — Start of bash script
+- `echo "Hello"` — Print text
+- `read varname` — Take input
+- Variables: `name=Ayush`
+- Print: `echo $name`
+
+### Conditions
+```bash
+if [ $a -gt 10 ]; then
+  echo "Greater than 10"
+elif [ $a -eq 10 ]; then
+  echo "Equals 10"
+else
+  echo "Less"
+fi
+```
+
+### Comparison Operators
+- `-eq` — equal
+- `-ne` — not equal
+- `-gt` — greater than
+- `-lt` — less than
+- `-ge` — greater than or equal
+- `-le` — less than or equal
+
+## 🧪 Practice Commands (Try in Terminal)
+```bash
+mkdir practice
+cd practice
+touch hello.txt
+echo "This is my Bash file." > hello.txt
+cat hello.txt
+mv hello.txt bash_notes.txt
+nano bash_notes.txt
+cd ..
+mv practice bash_folder
+rm -r bash_folder
+```
+
+## 🔚 Up Next
+- Learn loops: `for`, `while`
+- Explore basic tools: `nmap`, `hydra`, `sqlmap`, `john`, etc.
+##✅ Linux Permissions
+To view file permmisions: ls -l
+
+Octal	Symbolic (rwx)	Description
+0	- - -	No permissions
+1	- - x	Execute only
+2	- w -	Write only
+3	- w x	Write and execute
+4	r - -	Read only
+5	r - x	Read and execute
+6	r w -	Read and write
+7	r w x	Read, write, and execute
+
+🔧 Usage Format: chmod XYZ filename
+X = Owner
+Y = Group
+Z = Others
