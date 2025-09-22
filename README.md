@@ -18,7 +18,7 @@
 
 ## 📂 Projects
 - [Bash Scripts](./Projects/Bash/) — simple automation & utilities  
-- [Cybersecurity Notes](./Education/Notes) — personal documentation  
+- [Basic calculator](./Education/Notes) — personal documentation  
 
 ---
 
