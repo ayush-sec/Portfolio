@@ -1,35 +1,47 @@
 # 👋 Hey, I'm Ayush  
 
-💻 **Aspiring Cybersecurity Learner** | 🔐 **Red Team Enthusiast** | ⚡ **Exploring Systems, Networks & Security One Step at a Time**
+💻 **14 y/o Cybersecurity Explorer** | 🔐 **Red Team Enthusiast (in training)** | ⚙️ **Breaking things to understand how they work**
 
 ---
 
-## 🔎 Current Focus
-- Writing **Bash scripts** to automate daily tasks  
-- Exploring **Linux internals** & system workflows  
-- Learning **Networking fundamentals**  
-- Studying **C programming** and core system logic  
+## 🧠 About Me
+I’m not a college student — I’m a **high-schooler who builds, breaks, and experiments** to understand real cybersecurity mechanics.  
+I explore systems from the inside out: writing **Bash scripts**, **C programs**, and diving into **Linux + networking** to learn how computers really think.  
+
+> 🚀 My goal: learn cybersecurity the hard way — by actually building and testing things, not just reading them.
+
+---
+
+## 🔍 Current Focus
+- Building **C projects** to master logic and system behavior  
+- Writing **automation scripts** in Bash  
+- Learning **networking, system internals, and basic exploitation** concepts  
+- Creating small **real-world inspired security tools**
+
+---
+
+## 🧩 Projects Overview
+> Each project folder includes its own README and explanation.  
+> Click to explore 👇
+
+| Category | Description | Link |
+|-----------|--------------|------|
+| 🧮 **C Projects** | Core logic, programs, and small tools in C | [View Folder →](./Projects/C) |
+| ⚙️ **Bash Scripts** | Automation, file operations, user input, conditions | [View Folder →](./Projects/Bash) |
+| 🧾 **Achievements** | Certifications & proof of progress | [View Folder →](./Achievements) |
 
 ---
 
 ## 🏆 Certifications
 - ✅ [Google Cybersecurity Foundations](./Achievements/Foundations_of_Cybersecurity.pdf)  
-- 📈 Working on: **Google Professional Cybersecurity Certificate**
-
----
-
-## 📂 Projects
-| Project | Language | Description |
-|----------|-----------|-------------|
-| [Rock Paper Scissors](./Projects/C/Rock-Paper-Scissor) | C | Command-line game |
-| [Calculator](./Projects/C/Calculator) | C | Basic CLI calculator  |
-| [Bash Scripts](./Projects/Bash) | Bash | Small automation scripts & utilities |
+- 📈 Currently pursuing: **Google Professional Cybersecurity Certificate**
 
 ---
 
 ## 🌐 Connect
-- GitHub: [ayush-sec](https://github.com/ayush-sec)
+- 🐙 GitHub: [ayush-sec](https://github.com/ayush-sec)
+- 💬 Always open for discussions or collaboration
 
 ---
 
-> ⚙️ *This repository serves as my personal portfolio — showcasing my learning journey, small projects, and experiments as I explore cybersecurity and programming.*
+> ⚡ *This portfolio is my logbook — each project is a checkpoint in my journey from curiosity → mastery.*
