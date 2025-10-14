@@ -8,7 +8,7 @@
 I’m not a college student — I’m a **high-schooler who builds, breaks, and experiments** to understand real cybersecurity mechanics.  
 I explore systems from the inside out: writing **Bash scripts**, **C programs**, and diving into **Linux + networking** to learn how computers really think.  
 
-> 🚀 My goal: learn cybersecurity the hard way — by actually building and testing things, not just reading them.
+> 🚀 My goal: learn cybersecurity the hard way — by actually building and testing things, not just reading about them.
 
 ---
 
@@ -28,7 +28,6 @@ I explore systems from the inside out: writing **Bash scripts**, **C programs**,
 |-----------|--------------|------|
 | 🧮 **C Projects** | Core logic, programs, and small tools in C | [View Folder →](./Projects/C) |
 | ⚙️ **Bash Scripts** | Automation, file operations, user input, conditions | [View Folder →](./Projects/Bash) |
-| 🧾 **Achievements** | Certifications & proof of progress | [View Folder →](./Achievements) |
 
 ---
 
