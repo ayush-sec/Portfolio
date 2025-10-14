@@ -1,4 +1,4 @@
-## 🧮 Rock-Paper-Scissor (C)
+## 🎮 Rock-Paper-Scissor (C)
 
 A simple **command-line calculator** written in C that performs basic arithmetic operations — addition, subtraction, multiplication, and division.  
 This was built as one of my early C practice projects to understand **functions, loops, and conditionals**.
