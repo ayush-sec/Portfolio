@@ -35,8 +35,3 @@ Each operation is triggered by a **numeric menu**, for example:
 
 ---
 
-### ▶️ How to Run
-
-#### **1. Compile the program**
-```bash
-gcc calc.c -o calc
