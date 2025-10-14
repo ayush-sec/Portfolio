@@ -12,6 +12,12 @@
 
 ---
 
+## 🏆 Certifications
+- ✅ [Google Cybersecurity Foundations](./Achievements/Foundations_of_Cybersecurity.pdf)  
+- 📈 In progress: **Google Professional Cybersecurity Certificate**
+
+---
+
 ## 🧩 Projects Overview
 > Each project folder includes its own README and explanation.  
 > Click to explore 👇
