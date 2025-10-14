@@ -21,7 +21,7 @@
 ## 📂 Projects
 | Project | Language | Description |
 |----------|-----------|-------------|
-| [Rock Paper Scissors](./Projects/C/Rock-Paper-Scissors) | C | Command-line game |
+| [Rock Paper Scissors](./Projects/C/Rock-Paper-Scissor) | C | Command-line game |
 | [Calculator](./Projects/C/Calculator) | C | Basic CLI calculator  |
 | [Bash Scripts](./Projects/Bash) | Bash | Small automation scripts & utilities |
 
