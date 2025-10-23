@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void calculater()
+void calculator()
 {
     printf("\t\t\t---Basic Calculator---\n");
     printf("\t\t\t\t\t\t Made by Ayush\n");
@@ -29,36 +29,39 @@ void calculater()
 
     // checking the operator and doing calculation
 
-    // Addition
-    if (operator == 1)
+    switch (operator)
     {
-        printf("\nAddition: %f", digit1 + digit2);
-    }
+    // Addition
+    case (1):
+        printf("\nAddition: %.2f", digit1 + digit2);
+        break;
 
     // Subtraction
-    else if (operator == 2)
-    {
-        printf("\nSubtraction: %f", digit1 - digit2);
-    }
+    case (2):
+        printf("\nSubtraction: %.2f", digit1 - digit2);
+        break;
 
     // Multiplication
-    else if (operator == 3)
-    {
-        printf("\nMultiplication: %f", digit1 * digit2);
-    }
+    case (3):
+        printf("\nMultiplication: %.2f", digit1 * digit2);
+        break;
 
     // Division
-    else if (operator == 4)
+    case (4):
     {
         if (digit2 != 0)
+        {
             printf("\nDivision: %f", digit1 / digit2);
+        }
         else
+        {
             printf("\nError: Cannot divide by zero!\n");
+        }
+        break;
     }
 
     // If wrong input
-    else
-    {
+    default:
         printf("Wrong input!\n");
     }
 }
@@ -67,22 +70,22 @@ void calculater()
 
 int main()
 {
-    int fd;
-    calculater();
+    int repeat;
+    calculator();
     printf("\n\t\tDo you wanna do again?: ");
     printf("\n\t1.  yes");
     printf("\n\t2.  no");
-    printf("\n\t :");
-    scanf("\n%d", &fd);
+    printf("\n\t : \n");
+    scanf("%d", &repeat);
 
     // while loop
-    while (fd == 1)
+    while (repeat == 1)
     {
-        calculater();
+        calculator();
         printf("\n\t\tDo you wanna do again?: ");
         printf("\n\t1.  yes");
         printf("\n\t2.  no");
         printf("\n\t : ");
-        scanf("%d", &fd);
+        scanf("%d", &repeat);
     }
 }
